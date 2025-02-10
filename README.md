@@ -3,4 +3,4 @@ Node typescript starter
 
 
 Will add, 
-drizzle, postgres, supabase setup
+drizzle, trigger.dev, postgres, supabase setup
